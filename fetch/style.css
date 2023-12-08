@@ -1,0 +1,19 @@
+.insidecard{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 50px;
+    background-color: aqua;
+}
+.pussy{
+    word-wrap : break-word;  
+}
+
+.gone{
+    width:500px;
+    height: 200px;
+}
+body{
+    background-color: lightskyblue;
+}
